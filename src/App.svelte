@@ -1,7 +1,7 @@
 <script>
-  import svelteLogo from './Assets/Svelte.svg'
-  import viteLogo from '../Public/Vite.svg'
-  import Counter from './Lib/Counter.svelte'
+  import svelteLogo from './assets/svelte.svg'
+  import viteLogo from '/vite.svg'
+  import Counter from './lib/Counter.svelte'
 </script>
 
 <main>
