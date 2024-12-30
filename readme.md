@@ -1,6 +1,6 @@
-# Svelte + Vite.js
+# Svelte +- Vite.js
 
-This template should help get you started developing with Svelte in Vite.
+This template should help get you started developing with Svelte in Vite.js
 
 ## Recommended Ide Setup
 
