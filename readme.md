@@ -1,4 +1,4 @@
-# Svelte +- Vite.js
+# Svelte + Vite.js
 
 This template should help get you started developing with Svelte in Vite.js
 
